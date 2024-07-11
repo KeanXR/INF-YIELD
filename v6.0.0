@@ -19,7 +19,7 @@ if not game:IsLoaded() then
     notLoaded:Destroy()
 end
 
-currentVersion = '6.0.0@ttwiz_z'
+currentVersion = '6.0.0 @KeanXR'
 
 Players = game:GetService("Players")
 PlayerGui = Players.LocalPlayer:FindFirstChildWhichIsA("PlayerGui")
