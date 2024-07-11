@@ -12341,7 +12341,7 @@ task.spawn(function()
 
     if success then
         if currentVersion ~= latestVersionInfo.Version then
-            notify('Outdated','Get the new version at github.com/ttwizz/infiniteyield')
+            notify('Have fun','START HACKING!')
         end
 
         if latestVersionInfo.Announcement and latestVersionInfo.Announcement ~= '' then
